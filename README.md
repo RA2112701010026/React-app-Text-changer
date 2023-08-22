@@ -1,3 +1,38 @@
+# TextChanger App
+
+TextChanger is a simple web application that allows you to change text to uppercase. It also provides a dark mode for better readability.
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Convert text to uppercase.
+- Toggle between light mode and dark mode.
+- Display alerts for mode changes.
+
+## Usage
+
+1. Enter the text you want to change to uppercase in the text input field.
+2. Click the "Convert" button to see the converted text in uppercase.
+3. Use the dark mode toggle in the navigation bar to switch between light and dark modes.
+4. Alerts will notify you when the mode changes.
+
+## Getting Started
+
+Follow these steps to get started with the TextChanger app:
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/your-username/TextChanger.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
